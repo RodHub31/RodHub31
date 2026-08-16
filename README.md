@@ -31,7 +31,7 @@ When I'm not working with data, I enjoy read books politycs, see the news. I lov
 ## 🌱 Currently Learning 
 
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- I'm exploring the world of cloud computing and artificial intelligence to automate real-world processes
 
 ## 🛠️ Technical Skillset
 
